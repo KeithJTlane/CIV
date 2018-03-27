@@ -1,5 +1,5 @@
 <?php
-echo "hello world! <br/>";
+echo "hello world! this is balls <br/>";
 echo "today is: " .date(Y-M-D);
-echo "this is aload of bals!";
+eco "this is aload of bals!";
 ?>
