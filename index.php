@@ -1,5 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
 <?php
-echo " <br/>";
-echo "today is: " .date(Y-M-D);
-echo "this is aload of bals!";
+echo "Hello World!";
 ?>
+
+</body>
+</html>
