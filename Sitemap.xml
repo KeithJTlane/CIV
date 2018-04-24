@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<link type = "text/css" rel = "stylesheet" href= "StyleSheet.css">
+	<meta name="keywords" content=" sleep,eat,b&amp;b,accommodation, sport, sky sports,free wifi, wifi, car parking, galway city, galway ireland" />
+	<title>MooreLodge B&ampB </title>
+</head>
+
+<body>
+	<div id= "header">
+		<h1> MooreLodge<br>SITEMAP</h1>	
+	</div>
+
+<div id= "Navbar">
+	<ul>
+		<li><a href="Rooms.html">Rooms</a></Li>
+		<li><a href="SightSeeingTours.html">SightSeeing tours</a></Li>
+		<li><a href="Bookings.html">Bookings</a></li>
+		<li><a href="AboutYourVisit.html">About your visit</a></li>
+		<li><a href="FAQs.html">FAQ's</a></Li>
+		<li><a href ="Gallery.html"> Gallery</a></li>
+		<li id="selected"><span>Home</span></li>
+	</ul>
+	
+</div>
+
+
+<ul>
+<li><a href="articles.html">Articles</a>
+<ul>
+ <li><a href="commentary.html">Commentary</a></li>
+ <li><a href="reviews.html">Reviews</a></li>
+ <li><a href="videos.html">Videos</a></li>
+</ul>
+</li>
+<li><a href="contributors.html">Contributors</a>
+<ul>
+ <li><a href="contributor1.html">Contributor 1</a></li>
+ <li><a href="contributor2.html">Contributor 2</a></li>
+ <li><a href="contributor3.html">Contributor 3</a></li>
+</ul>
+</li>
+<li><a href="contests.html">Contests</a></li>
+<li><a href="community.html">Community</a>
+<ul>
+<li><a href="forum.html">Forum</a></li>
+<li><a href="arcade.html">Arcade</a>
+ <ul>
+<li><a href="arcade1.html">Arcade Game 1</a></li>
+<li><a href="arcade2.html">Arcade Game 2</a></li>
+<li><a href="arcade3.html">Arcade Game 3</a></li>
+ </ul>
+ </li>
+</ul>
+</li>
+</ul>
+<div id= "Footer">
+<div id= "Navbar">
+	<ul>
+		<li><a href="Rooms.html">Rooms</a></Li>
+		<li><a href="SightSeeingTours.html">SightSeeing tours</a></Li>
+		<li><a href="Bookings.html">Bookings</a></li>
+		<li><a href="AboutYourVisit.html">About your visit</a></li>
+		<li><a href="FAQs.html">FAQ's</a></Li>
+		<li><a href ="Gallery.html"> Gallery</a></li>
+		<li id="selected"><span>Home</span></li>
+		
+		</ul>
+</div>
+<<h4>&copy; 2017 MooreLodge</h4> 
+<h4><a href="Sitemap.html">Sitemap</a></h4>
+</div>
+</body>
+</html>

@@ -1,0 +1,452 @@
+/*==========Layout Section=========== */
+body {
+		background-color:#659dbd;
+		margin:0px;
+		font-family: Verdana,Georgia, serif;
+		Font-Size:16px;  
+	}
+	
+/*==========HEADER SECTION================== */
+#header 
+	{
+	background-image: url(./Images/CliffsOfMoher.jpg);
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	margin:10px;
+	height:120px;
+	border-radius:20px;
+	}
+
+/*==========NAV BAR SECTION================== */
+#Navbar ul
+	{
+	Font-Size:25px;
+	Padding: 5px;
+	list-style-type:none;
+	text-align: center;
+	background-color: #aacde2;
+	text-shadow: 3px 3px 5px #012C34;
+	margin:10px;
+	border-radius:10px;
+	}
+#Navbar ul li
+	{
+	display: inline;
+	}
+
+#Navbar ul li a
+	{	
+	text-decoration: none;
+	font-family:arial;
+	Padding: .2em 1em;
+	color: #fff;
+	}
+
+#Navbar ul li a:hover
+	{
+	color:#ffd700;
+	background-color:#fff;
+	border-radius:10px;
+	}
+
+/*==========MAIN BODY SECTION================== */
+.Main
+	{
+	background-color: #50819e;
+	margin-left:260px;
+	margin-right:260px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius:10px;
+	padding:20px;
+	font-size:110%;	
+	}	
+
+.sideRight
+	{
+	background-color: #8cbfdb;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:10px;
+	border-radius:10px;
+	padding:20px;
+	font-size:105;
+	float:right;
+	width:240px;
+	clear:right;
+	}
+.sideLeft
+	{
+	background-color: #8cbfdb;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:10px;
+	border-radius:10px;
+	padding:20px;
+	font-size:105;
+	float:left;
+	width:240px;
+	clear:left;
+	}
+.SiteMap
+	{
+	background-color: #50819e;
+	margin-left:260px;
+	margin-right:260px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius:10px;
+	padding:20px;
+	font-size:110%;	
+	}
+	
+/*========== images Section=========== */
+	
+.Images
+	{
+	display: block;
+	 float: left;
+	 width: 240px;
+	 height: 200px;
+	 border-radius:5px;
+	 margin-left: 10px;
+	 margin-right:10px;
+	 margin-bottom:10px;
+	opacity:1.0;
+	}
+	
+.imageSidebar
+	{	
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:10px;
+	border-radius:5px;
+	float:right;
+	width:240px;
+	height:200px;
+	clear:right;
+	opacity:1.0;
+	}
+.imageSidebar:Hover
+	{ 
+	Opacity:0.4;
+	}
+
+.LeftimageSidebar
+	{	
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:10px;
+	border-radius:5px;
+	float:left;
+	width:240px;
+	height:200px;
+	clear:left;
+	opacity:1.0;
+	}
+.LeftimageSidebar:Hover
+	{ 
+	Opacity:0.4;
+	}
+
+.ImageHolder
+	{
+	display: block;
+	margin-left:240px;
+	margin-right:240px;
+	margin-top:0px;
+	margin-bottom:10px;
+	border-radius:5px;
+	}
+	 
+.RoomImages
+	{
+	display: block;
+	 float: left;
+	 width: 240px;
+	 height: 200px;
+	 border-radius:5px;
+	 margin-left: 10px;
+	 margin-right:10px;
+	 margin-bottom:10px;
+	}
+
+/*========== FOOTER SECTION=========== */
+
+ #Footer
+	{
+	Font-Size:20px;
+	background-color: #aacde2;
+	margin:10px;
+	height:60px;
+	border-radius:20px;
+	Clear:both;
+	}
+	
+/*==========Headings Section=========== */	
+h1
+	{
+	font-size:240%;
+	text-transform: uppercase;
+	text-align:center;
+	text-shadow: 3px 3px 5px #012C34;
+	Color: #fff;
+	margin:10;
+	}
+	
+h2
+	{
+	font-size:110%;
+	Color: #fff;
+	text-shadow: 3px 3px 5px #012C34;
+	margin:0px;
+	text-align:center;
+	}
+	
+h3
+	{
+	font-size:110%;
+	Color: #fff;
+	text-shadow: 3px 3px 5px #012C34;
+	margin:0px;
+	}
+	
+h4  {
+	font-size:90%;
+	color:black;
+	text-align:right;
+
+	}
+	
+h2 a 
+	{
+	text-decoration: none;
+	font-size:110%;
+	Color: #fff;
+	text-shadow: 3px 3px 5px #012C34;
+	margin:0px;	
+	} 
+h3 a 
+	{
+	text-decoration: none;
+	font-size:100%;
+	Color: #fff;
+	text-shadow: 3px 3px 5px #012C34;
+	margin:0px;	
+	} 
+h3 a:hover
+	{
+	color:#ffd700;
+	background-color:#fff;
+	border-radius:5px;
+	Padding: .4em;
+	}
+h2 a:hover
+	{
+	color:#ffd700;
+	background-color:#fff;
+	border-radius:5px;
+	Padding: .4em;
+	}
+h4 a 
+	{
+	text-decoration: none;
+	font-size:90%;
+	Color: black;
+	text-align:right;
+
+	} 
+	
+	/*========== Booking Section=========== */
+	
+#Bookings {
+			margin-left:260px;
+			margin-right:260px;
+			margin-top:10px;
+			margin-bottom:10px;
+			border-radius:5px;
+			padding:20px;
+			font-size:110%;
+			box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+			background-color: #50819e;
+			overflow: hidden;			
+		}
+#Bookings p 
+		{
+			margin: 20px 0;
+		}
+		
+		label,input, select, textarea{
+			display: block;
+			margin-top:10px;
+			margin-bottom:10px;
+			width: 95%;
+			box-sizing:content-box;
+		}
+		
+		input, select, textarea
+		{
+			padding:5px;
+		}
+
+/*==========Slideshow section===========*/
+* {box-sizing:border-box}
+body {font-family: Verdana,sans-serif;margin:0}
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container 
+{	
+  max-width: 750px;
+  max-height:500px;
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 20px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+
+/*===========FAQs SECTION===========*/
+
+
+#Content 
+	{
+		margin-left:260px;
+		margin-right:260px;
+		margin-top:10px;
+		margin-bottom:10px;
+		border-radius:5px;
+		padding:20px;
+		font-size:110%;
+		box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+		background-color: #50819e;
+	}
+.question,
+.answers
+	{
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+	
+.question
+	{
+		font-weight:bold;
+		cursor:pointer;
+	}
+	
+.ellipsis::after
+	{
+		content: "...";
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
