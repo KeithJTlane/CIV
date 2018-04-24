@@ -3,7 +3,7 @@
 
 <body>
 
-<h1>My first PHP page test</h1>
+<h1>My first PHP</h1>
 
 <?php
 echo "Hello World ";
